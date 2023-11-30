@@ -1,3 +1,29 @@
 body {
-    background: blue;
+    background: green;
   }
+h1 {
+    background-color: white;
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 50px;
+  }
+button {
+    color: red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('https://i.imgur.com/pqE1nqx.png'); 
+        background-size: cover; 
+        width: 500px; 
+        height: 500px; 
+        font-size: 2rem; 
+ }
+
+h2 {
+    text-align: center;
+}
